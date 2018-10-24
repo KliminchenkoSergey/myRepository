@@ -1,3 +1,0 @@
-<?php
-PHP_WINDOWS_VERSION_MAJOR
-?>
